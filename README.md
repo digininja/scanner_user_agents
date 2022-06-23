@@ -15,4 +15,4 @@ I've no idea what the best format for this is so I'm going to start with a very 
 
 If you think this could be improved, please make suggestions sooner rather than later, I'd rather mess with the format at the start than in six months.
 
-The idea is based on a [short Twitter chat](https://twitter.com/dcuthbert/status/1539894585811505152) with [Daniel Cuthbert](https://github.com/danielcuthbert].
+The idea is based on a [short Twitter chat](https://twitter.com/dcuthbert/status/1539894585811505152) with [Daniel Cuthbert](https://github.com/danielcuthbert).
