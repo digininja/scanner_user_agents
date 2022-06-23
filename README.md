@@ -15,7 +15,8 @@ I've no idea what the best format for this is so I'm going to start with a very 
 
 If you think this could be improved, please make suggestions sooner rather than later, I'd rather mess with the format at the start than in six months.
 
-*Warning*
+## Warning
+
 Some of these scanners use the same UAs as legitimate browsers, for example Nikto, and so blindly blocking or messing with traffic based purely on items in this list could affect real users. Think before you use it.
 
 The idea is based on a [short Twitter chat](https://twitter.com/dcuthbert/status/1539894585811505152) with [Daniel Cuthbert](https://github.com/danielcuthbert).
