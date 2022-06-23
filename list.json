@@ -4,5 +4,17 @@
     "scanner": "Nikto",
     "version": "Github master branch",
     "last seen": "2022-06-23"
+  },
+  {
+    "ua": "sqlmap/1.6.6.7#dev (https://sqlmap.org)",
+    "scanner": "sqlmap",
+    "version": "1.6.6.7",
+    "last seen": "2022-06-23"
+  },
+  {
+    "ua": "WPScan v3.8.20 (https://wpscan.com/wordpress-security-scanner)",
+    "scanner": "WPScan",
+    "version": "3.8.20",
+    "last seen": "2022-06-23"
   }
 ]
