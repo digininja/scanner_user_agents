@@ -6,6 +6,18 @@
     "last seen": "2022-06-23"
   },
   {
+    "ua": "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)",
+    "scanner": "Nessus",
+    "version": "10.1.2",
+    "last seen": "2022-06-23"
+  },
+  {
+    "ua": "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)",
+    "scanner": "Nessus",
+    "version": "8.7.2",
+    "last seen": "2022-06-23"
+  },
+  {
     "ua": "sqlmap/1.6.6.7#dev (https://sqlmap.org)",
     "scanner": "sqlmap",
     "version": "1.6.6.7",
