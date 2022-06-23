@@ -9,11 +9,19 @@ I've no idea what the best format for this is so I'm going to start with a very 
   "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36",
   "scanner": "Nikto",
   "version": "Github master branch",
-  "last seen": "2022-06-23"
+  "last seen": "2022-06-23",
+  "known ips": [
+    "1.2.3.4",
+	"2.3.4.5"
+  ]
 }
 ```
 
 If you think this could be improved, please make suggestions sooner rather than later, I'd rather mess with the format at the start than in six months.
+
+## Updates
+
+At a suggestion from a viewer, I've just added known scanner IP addresses to the structure. It won't be much use for the majority of tools, but bigger vendors, such as Acunetix, publish their scanner IPs and so including these may be of use.
 
 ## Warning
 
