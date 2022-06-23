@@ -28,5 +28,84 @@
     "scanner": "WPScan",
     "version": "3.8.20",
     "last seen": "2022-06-23"
+  },
+  {
+    "ua": "feroxbuster/2.7.0",
+    "scanner": "FeroxBuster",
+    "version": "2.7.0",
+    "last seen": "2022-06-23"
+  },
+  
+  {
+    "ua": "feroxbuster/2.5.0",
+    "scanner": "FeroxBuster",
+    "version": "2.5.0",
+    "last seen": "2022-06-23"
+  },
+  {
+    "ua": "masscan/1.3",
+    "scanner": "Masscan",
+    "version": "1.3",
+    "last seen": "2022-06-23"
+  },
+  {
+    "ua": "masscan-ng/1.3 (https://github.com/bi-zone/masscan-ng)",
+    "scanner": "Masscan-ng",
+    "version": "1.3",
+    "last seen": "2022-06-23"
+  },
+  {
+    "ua": "masscan/1.3 (https://github.com/robertdavidgraham/masscan)",
+    "scanner": "Masscan-ng",
+    "version": "1.3",
+    "last seen": "2022-06-23"
+  },
+  {
+    "ua": "masscan/1.3 (https://github.com/robertdavidgraham/masscan)",
+    "scanner": "Masscan-ng",
+    "version": "1.3",
+    "last seen": "2022-06-23"
+  },
+  {
+    "ua": "Mediatoolkitbot (complaints@mediatoolkit.com)",
+    "scanner": "Media Toolkit",
+    "version": "N/A",
+    "last seen": "2022-02-14"
+  },
+  {
+    "ua": "Fuzz Faster U Fool v1.3.1",
+    "scanner": "Ffuf",
+    "version": "1.3.1",
+    "last seen": "2022-05-11"
+  },
+  {
+    "ua": "Fuzz Faster U Fool v1.4.0",
+    "scanner": "Ffuf",
+    "version": "1.4.0",
+    "last seen": "2022-05-19"
+  },
+  {
+    "ua": "l9explore/1.2.2",
+    "scanner": "l9explore",
+    "version": "1.2.2",
+    "last seen": "2022-06-23"
+  },
+  {
+    "ua": "l9explore/1.3.0",
+    "scanner": "l9explore",
+    "version": "1.3.0",
+    "last seen": "2022-06-23"
+  },
+  {
+    "ua": "l9tcpid/v1.1.0",
+    "scanner": "l9tcpid",
+    "version": "1.1.0",
+    "last seen": "2022-06-23"
+  },
+  {
+    "ua": "SMRF URL Expander",
+    "scanner": "SMRF URL Expander",
+    "version": "N/A",
+    "last seen": "2022-06-23"
   }
 ]
