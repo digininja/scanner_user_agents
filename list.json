@@ -137,5 +137,29 @@
     "scanner": "Gobuster",
     "version": "2.0.1",
     "last seen": "2018-09-11"
+  },
+  {
+    "ua": "commix/v3.5-dev#95 (https://commixproject.com)",
+    "scanner": "Commix",
+    "version": "3.5-dev#95",
+    "last seen": "2022-06-27"
+  },
+  {
+    "ua": "commix/v3.4-stable (https://commixproject.com)",
+    "scanner": "Commix",
+    "version": "3.4-stable",
+    "last seen": "2022-02-25"
+  },
+  {
+    "ua": "commix/v3.3-stable (https://commixproject.com)",
+    "scanner": "Commix",
+    "version": "3.3-stable",
+    "last seen": "2021-11-13"
+  },
+  {
+    "ua": "parameth v1.0",
+    "scanner": "Parameth",
+    "version": "1.0",
+    "last seen": "2022-06-27"
   }
 ]
