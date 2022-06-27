@@ -113,6 +113,29 @@
     "scanner": "Dirsearch",
     "version": "0.4.2",
     "last seen": "2022-06-24"
-  }  
-  
+  },
+  {
+    "ua": "gobuster/3.1.0",
+    "scanner": "Gobuster",
+    "version": "3.1.0",
+    "last seen": "2020-10-19"
+  },
+  {
+    "ua": "gobuster/3.0.1",
+    "scanner": "Gobuster",
+    "version": "3.0.1",
+    "last seen": "2019-06-21"
+  },
+  {
+    "ua": "gobuster/3.0.0",
+    "scanner": "Gobuster",
+    "version": "3.0.0",
+    "last seen": "2019-06-20"
+  },
+  {
+    "ua": "gobuster/2.0.1",
+    "scanner": "Gobuster",
+    "version": "2.0.1",
+    "last seen": "2018-09-11"
+  }
 ]
